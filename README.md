@@ -6,7 +6,7 @@ Submitted by: **Awrish Khan**
 
 Time spent: **2** hours spent in total
 
-Link to project: (insert your link here, should start with https://glitch.com...)
+Link to project: https://glitch.com/edit/#!/memorygameaak
 
 ## Required Functionality
 
